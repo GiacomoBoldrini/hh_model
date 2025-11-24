@@ -1,0 +1,1 @@
+text2workspace.py datacard.txt -P HiggsAnalysis.HHInference.hh_model:model_all -o model.root --X-pack-asympows --optimize-simpdf-constraints=cms --X-optimizeMHDependency=fixed --mass 125 --PO doBRscaling=False
